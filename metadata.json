@@ -1,0 +1,6 @@
+{
+  "name": "生產排程與外包進料協同管理系統",
+  "description": "生產排單即時因應客戶交期及外包進料時間變更之協同管理系統，提供集中資料、風險規則提醒、排程調整、異常對策追蹤與 AI 決策輔助。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
